@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android_Lint.iml" filepath="$PROJECT_DIR$/.idea/modules/Android_Lint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_Lint.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_Lint.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_Lint.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_Lint.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_Lint.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_Lint.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_Lint.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_Lint.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/checks/Android_Lint.checks.iml" filepath="$PROJECT_DIR$/.idea/modules/checks/Android_Lint.checks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/checks/Android_Lint.checks.main.iml" filepath="$PROJECT_DIR$/.idea/modules/checks/Android_Lint.checks.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/checks/Android_Lint.checks.test.iml" filepath="$PROJECT_DIR$/.idea/modules/checks/Android_Lint.checks.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lintlibrary/Android_Lint.lintlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/lintlibrary/Android_Lint.lintlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lintlibrary/Android_Lint.lintlibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lintlibrary/Android_Lint.lintlibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lintlibrary/Android_Lint.lintlibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lintlibrary/Android_Lint.lintlibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lintlibrary/Android_Lint.lintlibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lintlibrary/Android_Lint.lintlibrary.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lintpatch/Android_Lint.lintpatch.iml" filepath="$PROJECT_DIR$/.idea/modules/lintpatch/Android_Lint.lintpatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lintpatch/Android_Lint.lintpatch.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lintpatch/Android_Lint.lintpatch.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lintpatch/Android_Lint.lintpatch.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lintpatch/Android_Lint.lintpatch.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lintplugin/Android_Lint.lintplugin.iml" filepath="$PROJECT_DIR$/.idea/modules/lintplugin/Android_Lint.lintplugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lintplugin/Android_Lint.lintplugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lintplugin/Android_Lint.lintplugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lintplugin/Android_Lint.lintplugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lintplugin/Android_Lint.lintplugin.test.iml" />
+    </modules>
+  </component>
+</project>
